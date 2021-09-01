@@ -1,2 +1,1 @@
-Git Kurs
 CodeCodeCode
